@@ -20,7 +20,7 @@ This is a Magisk module and from this you can get Unlimited Google Cloud Storage
 
 **How to do this**
 
-- Download the magisk zip file in assets
+- Download the magisk zip file in assets ( Releases section )
 -  Open magisk app & enter module tab
 -  Select the magisk zip file
 -  Then flash.
