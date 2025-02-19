@@ -11,7 +11,7 @@ This is a Magisk module and from this you can get Unlimited Google Cloud Storage
 
 - Android 4 +
 - Rooted Rom
-- Magisk app
+- Magisk app 
 
 **How it works**
   
